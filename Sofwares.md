@@ -31,6 +31,13 @@ Available on:
 
 - [Python.org](https://www.python.org/)
 
+```python
+import opencv
+def a(x):
+    return x**2
+print(a+b)
+```
+
 ### Conda (Anaconda/Miniconda)
 
 ![python](./.src/python-icon.png)
@@ -201,6 +208,44 @@ Remote desktop control using NX. Very handy for troubleshooting computers in an 
 Available on:
 
 - [NoMachine's website](https://www.nomachine.com/)
+
+### Bulk Crap Uninstaller (BCU)
+
+![windows](./.src/windows-icon.png)
+![open-source](./.src/opensource-icon.png)
+
+Allows you to remove unwanted programs completely. Has the ability to remove pre-loaded applications and disable protection for _system_ apps as well. You can also trace and remove any left-overs. Also has the ability to do this in batch mode, even in parallel. Has a handy portable version as well.
+
+Available on:
+
+- [BCU's website](https://www.bcuninstaller.com/)
+- [GitHub](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+- [Source Forge](https://sourceforge.net/projects/bulk-crap-uninstaller/)
+- [Foss Hub](https://www.fosshub.com/Bulk-Crap-Uninstaller.html)
+
+### WinDirStat
+
+![windows](./.src/windows-icon.png)
+![open-source](./.src/opensource-icon.png)
+
+Disk usage analysis in tree-view mode. Also a nice work-around for hidden folder viruses.
+
+Available on:
+
+- [WinDirStat's website](https://windirstat.net/) (_might be down_)
+- [Source Forge](https://sourceforge.net/projects/windirstat/)
+- [Foss Hub](https://www.fosshub.com/WinDirStat.html)
+
+### TrID
+
+![windows](./.src/windows-icon.png)
+![open-source](./.src/opensource-icon.png)
+
+TrID is an utility designed to identify file types from their binary signatures. You'll need to download the executable as well as the latest file signature database. Just download it and extract it in the same place as the executable.
+
+Available on:
+
+- [Mark0's website](https://mark0.net/soft-trid-e.html)
 
 ## Drawing, prototyping, diagrams
 
