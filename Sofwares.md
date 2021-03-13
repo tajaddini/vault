@@ -414,6 +414,33 @@ Available on:
 - [Chocolatey](https://chocolatey.org/packages/sumatrapdf)
 - [Foss Hub](https://www.fosshub.com/Sumatra-PDF.html)
 
+### Okular
+
+![linux](./.src/linux-icon.png)
+![windows](./.src/windows-icon.png)
+![open-source](./.src/opensource-icon.png)
+
+A part of KDE's software suite, Okular is more than just a document viewer. While [Sumatra](#sumatra-pdf) is a nice daily driver, okular can annotate documents. It is definitely heavier than Sumatra though. (~110mb vs 10mb)
+
+Available on:
+
+- [Okular's website](https://okular.kde.org/download.php)
+- [GitHub](https://github.com/KDE/okular)
+- [Microsoft Store](https://www.microsoft.com/store/apps/9N41MSQ1WNM8) (Windows only)
+
+### PDFedit
+
+![linux](./.src/linux-icon.png)
+![windows](./.src/windows-icon.png)
+![open-source](./.src/opensource-icon.png)
+
+A complete PDF viewer and editor tool. Can add/remove/extract text and images from the files and can work with annotations. Lightweight and dependable. While it's very powerful for its use, the GUI is far from nice and needs improvements. I use it as a last resource for editing/annotations.
+
+Available on:
+
+- [PDFedit's website](http://pdfedit.cz/en/download.html)
+- [Source Forge](http://sourceforge.net/projects/pdfedit)
+
 ### PDFsam Basic
 
 ![windows](./.src/windows-icon.png)
