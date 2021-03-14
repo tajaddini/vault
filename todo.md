@@ -2,8 +2,20 @@
 
 ## Content
 
-+ Add comparisons chart for Sumatra/Okular/PDFedit.
+### Add
 
-## Tools
+- [x] Add Sumatra PDF.
+- [x] Add Okular.
+- [x] Add PDFedit.
+- [ ] Add GIMP.
+- [ ] Add Libre Office.
 
-+ Improve HTML conversion and data streamlining.
+### Comparisons
+
+- [ ] PDF tools.
+- [ ] GIMP vs PS.
+- [ ] Libre Office vs MS Office.
+
+## More
+
+- [ ] Improve HTML conversion and data streamlining.
